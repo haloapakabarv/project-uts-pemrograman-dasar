@@ -20,7 +20,7 @@ Versi Python minimum yang disarankan: Python 3.6+
 
 ## Cara Menjalankan Aplikasi
 1. Buka terminal atau command prompt.
-2. Navigasikan (cd) ke dalam folder project `project_uts`.
+2. Navigasikan (cd) ke dalam folder project `UTS_Pemrograman_Dasar`.
 3. Pastikan terdapat file `input.json` di dalam folder `data/`.
 4. Jalankan perintah berikut:
    ```bash
