@@ -1,0 +1,7 @@
+[
+    {"id": "A01", "nama": "Laptop Asus", "kategori": "Elektronik", "harga": 7000000, "stok": 10},
+    {"id": "A02", "nama": "Mouse Wireless", "kategori": "Elektronik", "harga": 150000, "stok": 50},
+    {"id": "B01", "nama": "Indomie Goreng", "kategori": "Makanan", "harga": 3000, "stok": 200},
+    {"id": "B02", "nama": "Biskuit Roma", "kategori": "Makanan", "harga": 12000, "stok": 30},
+    {"id": "C01", "nama": "Sabun Mandi", "kategori": "Kebersihan", "harga": 5000, "stok": -5} 
+]
